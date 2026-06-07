@@ -1,1 +1,1 @@
-# Data-Analyst-KultureHire
+# Data Analytics Internship - KultureHire
