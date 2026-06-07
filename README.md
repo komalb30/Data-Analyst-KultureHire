@@ -43,12 +43,12 @@ data-backed decisions when attracting and retaining Gen-Z talent.
 ---
 
 ## 📁 Project Structure
-
+```
 ├── data/             → Cleaned dataset (Excel)
 ├── sql/              → All 6 SQL queries with insights
 ├── excel-dashboard/  → Excel KPI dashboard
 └── powerbi/          → Power BI dashboard (.pbix)
-
+```
 ---
 
 ## 🗂️ Task Breakdown
