@@ -87,7 +87,4 @@ data-backed decisions when attracting and retaining Gen-Z talent.
 ---
 
 ## 🎓 Internship Completion Letter
-Letter/Completion Letter.jpg
-
-
-
+![Completion Letter](Letter/Completion Letter.jpg)
