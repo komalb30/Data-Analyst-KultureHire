@@ -84,7 +84,10 @@ data-backed decisions when attracting and retaining Gen-Z talent.
 ![Power BI Dashboard](powerbi-dashboard/Gen-z-BI-dashboard.png)
 ![Power BI Dashboard](powerbi-dashboard/Gen-z-BI-dashboard2.png)
 
+---
 
+##🎓 Internship Completion Letter
+![Excel Dashboard](excel-dashboard/Gen-z-Excel-dashboard.png)
 
 
 
