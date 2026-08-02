@@ -87,6 +87,6 @@ data-backed decisions when attracting and retaining Gen-Z talent.
 ---
 
 ## 🎓 Internship Completion Letter
-<img width="918" height="518" alt="image" src="https://github.com/komalb30/Data-Analyst-KultureHire/blob/main/Letter/Completion%20Letter.jpg"/>
+<img width="518" height="518" alt="image" src="https://github.com/komalb30/Data-Analyst-KultureHire/blob/main/Letter/Completion%20Letter.jpg"/>
 
 
